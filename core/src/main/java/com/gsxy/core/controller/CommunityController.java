@@ -16,6 +16,7 @@ import java.util.Map;
 /**
  * @author zhuxinyu 2023-10-24
  *      社团板块控制器
+ *
  */
 @CrossOrigin
 @Api(value = "社团板块接口" , tags = {"社团板块接口"})
