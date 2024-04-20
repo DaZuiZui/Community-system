@@ -1,4 +1,3 @@
- 
 import global from "../static/entry";
 import Axios  from 'axios'
 

@@ -1,8 +1,6 @@
 <template>
     <div class="hello">
-            <Top/>
-
-
+            <Top/> 
         <!-- Main content -->
         <section >
             <div class="container">
@@ -14,8 +12,7 @@
                  <h2 class=" mt-4">登入您的账户</h2>
                         <div class="mt-2">
                             <p class="lead lh-180">Login Your Account</p>
-                        </div>
-
+                        </div> 
                         <div>
                                 <div class="form-group">
                                   <label for="exampleInputEmail1">Username</label>
@@ -30,12 +27,12 @@
 
                                 </div>
                                 <button  class="btn btn-primary" style="width:100%" @click="submit()"   :disabled="switchbutton">Submit</button>
-
+ 
                         </div>
                     </div>
                 </div>
-
             </div>
+            
         </section>
 
         <footer class="position-relative" id="footer-main">
